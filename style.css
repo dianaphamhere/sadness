@@ -11,4 +11,11 @@
 
 #word {
 	position: relative;
+	animation: moveDown 10s;
+	animation-play-state: paused;
+}
+
+@keyframes moveDown {
+	0% {bottom: 0px; color: white;}
+	100% {bottom: -200px; color: black;}
 }

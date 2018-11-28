@@ -4,8 +4,6 @@ var s = document.getElementById("word");
 w.addEventListener("click", function(){
 
 	w.style.backgroundColor = "black";
-	s.style.color = "white";
-
-
-
+	s.style.animationPlayState = "running";
+	
 })
