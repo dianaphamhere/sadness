@@ -9,3 +9,5 @@ Didn't feel like doing too much today.
 That's all. 11/27/18
 
 Ref: https://stackoverflow.com/questions/33256961/access-css-animation-play-state-using-javascript
+
+(i did not add a reload button. you have to manually reset the page. consider it an artistic choice.)
